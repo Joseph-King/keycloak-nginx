@@ -1,2 +1,1 @@
-# keycloak-nginx
-NGINX with Keycloak authentication in a Container
+This repo serves as an example of how to get Keycloak to authenticate incoming users at the reverse proxy level via NGINX. There is a basic angular application behind this.
